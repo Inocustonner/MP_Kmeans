@@ -1,0 +1,10 @@
+# Artifacts
+x64/
+Debug/
+Release
+
+# Generated test data
+test_data/*.csv
+
+# VS caches
+.vs
